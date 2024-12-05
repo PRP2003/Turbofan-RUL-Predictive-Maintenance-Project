@@ -39,7 +39,6 @@ Implemented classifiers include:
 - matplotlib
 - seaborn
 - scikit-learn
-- tensorflow
 - lightgbm
 - xgboost
 
